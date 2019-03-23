@@ -1,6 +1,6 @@
 local shieldActive = false
 local shieldEntity = nil
-local hadPistol = false
+local hadPistol = true
 
 -- ANIM
 local animDict = "combat@gestures@gang@pistol_1h@beckon"
